@@ -7,7 +7,7 @@ title: Pre-Submission Review
 
 # Pre-Submission Review: 6-Agent Referee Report
 
-A rigorous pre-submission review of an academic economics paper. Runs 6 specialized review agents in parallel and consolidates their findings into a structured report.
+Based on [Claes Backman's AI Research Feedback](https://github.com/claesbackman/AI-research-feedback). A rigorous pre-submission review of an academic economics paper. Runs 6 specialized review agents in parallel and consolidates their findings into a structured report.
 
 ## Usage
 

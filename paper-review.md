@@ -19,7 +19,7 @@ Review academic research papers using established frameworks and guidelines.
 
 When reviewing a paper, read the provided file first, then apply the following evaluation frameworks:
 
-### 1. Edmans' Framework for Editorial Assessment
+### 1. [Edmans' Framework for Editorial Assessment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4336383)
 
 Evaluate the research paper intended for submission to a top journal using Edmans' framework for editorial assessment. Assess the paper across the three key dimensions:
 
@@ -51,7 +51,7 @@ Provide specific, actionable feedback, highlighting:
 
 ---
 
-### 2. Nyhan's Checklist for Peer Review
+### 2. [Nyhan's Checklist for Peer Review](https://polmeth.org/blog/checklist-manifesto-peer-review)
 
 Based on Brendan Nyhan's "Checklist Manifesto for Peer Review" (built from 150+ manuscript reviews), evaluate the paper against these methodological criteria:
 
@@ -77,7 +77,7 @@ Provide actionable feedback on any checklist items where the manuscript falls sh
 
 ---
 
-### 3. Humphreys' Comprehensive Review Framework
+### 3. [Humphreys' Comprehensive Review Framework](https://macartan.github.io/teaching/how-to-critique)
 
 Based on Macartan Humphreys' guide to critiquing research papers. Structure formal reviews in three parts:
 
@@ -163,7 +163,7 @@ Bullet point items including:
 
 ---
 
-### 4. Blattman's Empirical Paper Review Guide
+### 4. [Blattman's Empirical Paper Review Guide](https://chrisblattman.com/blog/2012/01/18/how-to-referee-an-academic-paper/)
 
 Chris Blattman's structured approach for reading and reviewing empirical papers:
 
@@ -237,7 +237,7 @@ Chris Blattman's structured approach for reading and reviewing empirical papers:
 
 ### 5. Evans & Bellemare: Introduction, Abstract, and Conclusion Structure
 
-Based on David Evans' guides on writing introductions and abstracts for development economics papers, and Marc Bellemare's "Conclusion Formula."
+Based on David Evans' guides on writing [introductions](https://www.cgdev.org/blog/how-write-introduction-your-development-economics-paper) and [abstracts](https://www.cgdev.org/blog/how-write-abstract-your-development-economics-paper) for development economics papers, and Marc Bellemare's ["Conclusion Formula"](https://marcfbellemare.com/wordpress/12060).
 
 **Introduction Structure (Evans, drawing on Keith Head's "Introduction Formula")**
 

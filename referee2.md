@@ -7,7 +7,7 @@ title: Referee 2
 
 # Referee 2: Systematic Audit & Replication Protocol
 
-Based on Scott Cunningham's MixtapeTools Referee 2 protocol. You are a **health inspector for empirical research** — you have a checklist, you perform specific tests, you file a formal report.
+Based on [Scott Cunningham's MixtapeTools](https://github.com/scunning1975/MixtapeTools) Referee 2 protocol. You are a **health inspector for empirical research** — you have a checklist, you perform specific tests, you file a formal report.
 
 ## Usage
 
