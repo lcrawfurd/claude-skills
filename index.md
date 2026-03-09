@@ -9,7 +9,7 @@ These are [Claude Code](https://docs.anthropic.com/en/docs/claude-code) skills �
 
 ## What are Claude Code skills?
 
-[Claude Code](https://docs.anthropic.com/en/docs/claude-code) is Anthropic's AI coding agent that runs in your terminal. **Skills** are reusable prompt files (written in markdown) that you can invoke as slash commands — like `/paper-review` or `/code-review` — to run structured, multi-step tasks. When you type a slash command, Claude Code reads the skill file and follows its instructions, applying the frameworks and checklists defined within it to whatever file or folder you point it at.
+[Claude Code](https://docs.anthropic.com/en/docs/claude-code) is Anthropic's AI coding agent that runs in your terminal or in the app. **Skills** are reusable prompt files (written in markdown) that you can invoke as slash commands — like `/paper-review` or `/code-review` — to run structured, multi-step tasks. When you type a slash command, Claude Code reads the skill file and follows its instructions, applying the frameworks and checklists defined within it to whatever file or folder you point it at.
 
 ## Skills
 
