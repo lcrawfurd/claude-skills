@@ -25,6 +25,9 @@ A systematic computational reproducibility audit protocol with 5 parallel audits
 ### [Pre-Submission Review](backmanreview)
 A 6-agent pre-submission referee report targeting a specified journal. Runs spelling/grammar, internal consistency, unsupported claims, mathematics/notation, tables/figures, and contribution evaluation agents in parallel, then consolidates into a prioritised report. Based on [Claes Backman's AI Research Feedback](https://github.com/claesbackman/AI-research-feedback).
 
+### [OpenAI Review](openaireview)
+Deep-review an academic paper using parallel sub-agents for section-level scrutiny. Runs a multi-pass pipeline: first understanding the full paper, then launching 6-9 parallel sub-agents (section reviewers + cross-cutting checks), then consolidating and tiering findings as major/moderate/minor. Based on [OpenAIReview](https://openaireview.github.io/blog.html) by [Chenhao Tan and the Chicago Human-AI Institute](https://github.com/ChicagoHAI/OpenAIReview).
+
 ## Installation
 
 The easiest way to install is to give Claude Code the link to this page and ask it to install the skills:
