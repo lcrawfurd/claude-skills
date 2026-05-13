@@ -28,6 +28,9 @@ A 6-agent pre-submission referee report targeting a specified journal. Runs spel
 ### [OpenAI Review](openaireview)
 Deep-review an academic paper using parallel sub-agents for section-level scrutiny. Runs a multi-pass pipeline: first understanding the full paper, then launching 6-9 parallel sub-agents (section reviewers + cross-cutting checks), then consolidating and tiering findings as major/moderate/minor. Based on [OpenAIReview](https://openaireview.github.io/blog.html) by [Chenhao Tan and the Chicago Human-AI Institute](https://github.com/ChicagoHAI/OpenAIReview).
 
+### Coarse Review
+Run the full [coarse.ink](https://coarse.ink) review pipeline locally, using your Claude Code subscription as the LLM backend instead of paying per-call API costs. Handles structure analysis, overview synthesis, per-section review, proof verification, and an editorial dedup pass on PDFs, TeX, markdown, DOCX, HTML, or EPUB. Takes 10–25 minutes; only per-paper cost is the ~$0.05–0.15 Mistral OCR step via OpenRouter. Install with `uvx --python 3.12 --from 'coarse-ink' coarse install-skills --all --force`.
+
 ## Installation
 
 The easiest way to install is to give Claude Code the link to this page and ask it to install the skills:
