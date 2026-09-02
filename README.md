@@ -13,6 +13,7 @@ Reusable [Claude Code](https://docs.anthropic.com/en/docs/claude-code) skills �
 | [`referee2`](referee2.md) | Computational reproducibility audit — 5 parallel audits (Scott Cunningham's MixtapeTools protocol) |
 | [`backmanreview`](backmanreview.md) | 6-agent pre-submission referee report targeting a specific journal |
 | [`openaireview`](openaireview.md) | Deep-review with parallel sub-agents for section-level scrutiny (OpenAIReview / Chicago HAI) |
+| [`tufte-viz`](tufte-viz.md) | Design and critique figures using Tufte's principles — graphical integrity, data-ink, chartjunk, small multiples, sparklines |
 | Coarse Review | Run the full [coarse.ink](https://coarse.ink) pipeline locally on your Claude Code subscription |
 
 ## Install
@@ -29,7 +30,8 @@ Or manually copy each skill's markdown into `~/.claude/skills/<skill-name>/SKILL
 ├── code-review/SKILL.md
 ├── referee2/SKILL.md
 ├── backmanreview/SKILL.md
-└── openaireview/SKILL.md
+├── openaireview/SKILL.md
+└── tufte-viz/SKILL.md + references/
 ```
 
 Then invoke as slash commands:
@@ -40,6 +42,7 @@ Then invoke as slash commands:
 /referee2 path/to/project/
 /backmanreview QJE path/to/paper.tex
 /openaireview path/to/paper.pdf
+/tufte-viz path/to/figure.png
 ```
 
 ## Also works on Codex
